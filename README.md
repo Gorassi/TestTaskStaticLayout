@@ -1,0 +1,2 @@
+# TestTaskStaticLayout
+test web image
